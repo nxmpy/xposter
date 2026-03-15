@@ -1,0 +1,23 @@
+{
+  "name": "x-poster",
+  "version": "1.0.0",
+  "description": "Autonomous X/Twitter posting and engagement agent with interactive CLI",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js",
+    "cli": "node cli.js",
+    "setup": "node setup.js"
+  },
+  "keywords": [
+    "twitter", "x", "automation", "posting", "engagement",
+    "social-media", "bot", "cli", "puppeteer"
+  ],
+  "license": "AGPL-3.0",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "puppeteer": "^22.0.0"
+  }
+}

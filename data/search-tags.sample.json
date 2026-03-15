@@ -1,0 +1,50 @@
+{
+  "reply_queries": [
+    "bitcoin", "crypto market", "solana", "$BTC", "$SOL",
+    "HODL", "diamond hands", "crypto trading", "altcoins",
+    "meme coins", "bull market", "bear market", "crypto news",
+    "bitcoin price", "web3", "defi", "blockchain",
+    "crypto portfolio", "not selling", "buying the dip"
+  ],
+  "reply_templates": {
+    "bullish": [
+      "this is the way",
+      "LFG",
+      "bullish af",
+      "exactly. conviction is everything",
+      "been saying this for months",
+      "the ones who hold through this will be rewarded",
+      "facts",
+      "couldn't agree more",
+      "we're all gonna make it",
+      "patience pays. always has",
+      "real ones know",
+      "diamond hands only"
+    ],
+    "bearish": [
+      "zoom out. it always recovers",
+      "this is when legends are made",
+      "pain is temporary. gains are forever",
+      "buying opportunity imo",
+      "everyone's scared until the next ATH",
+      "the best time to buy is when everyone is selling",
+      "seen this movie before. spoiler: it goes up",
+      "this too shall pass",
+      "accumulation phase"
+    ],
+    "general": [
+      "interesting take",
+      "good point",
+      "this is why crypto is the future",
+      "facts. no one talks about this enough",
+      "underrated take",
+      "more people need to see this",
+      "solid thread",
+      "based",
+      "well said",
+      "the OGs know",
+      "crypto twitter stays undefeated",
+      "this right here"
+    ]
+  }
+}

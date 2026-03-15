@@ -1,0 +1,5 @@
+[
+  {"key":"auth_token","value":"YOUR_AUTH_TOKEN","domain":".x.com","path":"/","httpOnly":true,"secure":true},
+  {"key":"ct0","value":"YOUR_CT0_TOKEN","domain":".x.com","path":"/","httpOnly":false,"secure":true},
+  {"key":"twid","value":"u%3DYOUR_USER_ID","domain":".x.com","path":"/","httpOnly":false,"secure":true}
+]

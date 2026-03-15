@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "text": "Your first tweet goes here. Keep under 280 characters.",
+    "target": "profile",
+    "posted": false,
+    "postedAt": null
+  },
+  {
+    "id": 2,
+    "text": "Community post example.",
+    "target": "community",
+    "posted": false,
+    "postedAt": null
+  }
+]

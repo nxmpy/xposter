@@ -1,0 +1,115 @@
+{
+  "reply_queries": [
+    "bitcoin", "crypto market", "solana", "$BTC", "$SOL",
+    "HODL", "diamond hands", "crypto trading", "altcoins",
+    "meme coins", "bull market", "bear market", "crypto news",
+    "bitcoin price", "web3", "defi", "blockchain",
+    "crypto portfolio", "not selling", "buying the dip",
+    "software engineering", "coding tips", "developer productivity",
+    "prompt engineering", "AI tools", "Claude AI",
+    "startup founder", "tech layoffs", "open source",
+    "stock market", "S&P 500", "oil prices", "Fed rates",
+    "financial markets", "economy 2026"
+  ],
+  "community_targets": [
+    "https://x.com/i/communities/2025998455681007974"
+  ],
+  "reply_templates": {
+    "bullish": [
+      "this is the way. conviction separates tourists from builders",
+      "been accumulating at these levels. future me will be grateful",
+      "the best entries always feel uncomfortable at the time",
+      "people will look back at these prices and wish they had the courage to buy",
+      "when the macro aligns with the fundamentals, you don't hesitate",
+      "smart money has been positioning for weeks. retail just hasn't caught up yet",
+      "the risk/reward at current levels is genuinely asymmetric",
+      "every major rally started when sentiment was exactly this divided",
+      "zoom out to the monthly chart. perspective changes everything",
+      "the institutions buying right now aren't doing it for a 10% trade",
+      "narrative shift happening in real-time. most people won't notice until it's obvious",
+      "this is what early looks like. uncomfortable but right"
+    ],
+    "bearish": [
+      "zoom out. every cycle, people call the bottom too early AND the top too early. patience",
+      "the strongest portfolios are built in bear markets, not bull markets",
+      "this is the accumulation window. the people who buy fear outperform everyone",
+      "capitulation happens right before the reversal. every single time since 2011",
+      "forced sellers create generational buying opportunities. it's painful to watch but true",
+      "macro headwinds are real but temporary. infrastructure and adoption are permanent",
+      "everyone's a genius in a bull market. the ones who hold here are the real ones",
+      "sentiment this negative has historically been one of the most reliable contrarian signals",
+      "the market is a wealth transfer machine from the impatient to the patient",
+      "if you believed in the thesis at higher prices, the thesis didn't change because the price did"
+    ],
+    "hodl": [
+      "HODL was born during a crash in 2013. the philosophy has survived every bear market since. there's a reason",
+      "GameKyuubi typed 'I AM HODLING' while BTC was at $550. it's now $71K. sometimes the drunk guy on the forum is right",
+      "the original HODL post wasn't about strategy. it was about conviction when everything screams sell. that's what makes it timeless",
+      "diamond hands aren't born in bull runs. they're forged in exactly these moments",
+      "HODL isn't just holding. it's the refusal to let fear override your thesis",
+      "the word HODL is in SEC filings now. a drunk typo from 2013 made it into regulatory documents. you can't make this up",
+      "been HODLing since before it was a strategy. it was just stubbornness. turns out stubbornness wins",
+      "the HODL philosophy is simple: you don't lose money until you sell. and you don't sell"
+    ],
+    "dev": [
+      "this is exactly the kind of tooling that compounds productivity over months. good find",
+      "been doing something similar — the key is making it a habit, not just knowing about it",
+      "the gap between knowing a tool exists and actually integrating it into your workflow is where most devs lose",
+      "this would've saved me 3 hours last week. bookmarking",
+      "the best developer advice is always unsexy. fundamentals > shiny new frameworks",
+      "automation isn't about being lazy. it's about being consistent at scale",
+      "shipping > perfection. every time. the best code is the code that's actually in production",
+      "the 10x engineer myth is dead. 10x teams are real though. and they share stuff like this",
+      "I've seen teams spend more time debating the approach than it would take to just try both. bias toward action",
+      "this is why I prefer working with people who've maintained systems, not just built them. maintenance teaches you what actually matters"
+    ],
+    "ai": [
+      "AI doesn't replace thinking. it accelerates the output of people who already think clearly",
+      "the people getting the most out of AI tools are the ones who know exactly what they want before they prompt",
+      "context engineering is the real skill. the prompt is just the last mile",
+      "most people use AI at maybe 20% of its capability. the unlock is treating it as a collaborator, not a search engine",
+      "the gap between 'I use ChatGPT' and 'I use AI in my workflow' is enormous. it's about systems, not individual prompts",
+      "the best AI workflow is one where the human does the thinking and the AI does the typing",
+      "prompt engineering tip: constraints > instructions. tell the model what NOT to do and quality doubles",
+      "AI is a force multiplier. 2x engineer + AI = 10x output. 0.5x engineer + AI = 1x output with hallucinations"
+    ],
+    "finance": [
+      "the market is pricing in the worst case scenario. historically, that's been a decent entry signal",
+      "oil above $100 changes every macro model. the second-order effects haven't been priced in yet",
+      "the Fed is stuck. cut = inflation risk. hold = recession risk. there's no clean path from here",
+      "what I'm watching isn't the headline number. it's the revisions. GDP getting revised down from 1.4% to 0.7% is the real story",
+      "institutional flows tell a different story than retail sentiment. follow the money, not the tweets",
+      "geopolitical risk is the hardest thing to price. markets either ignore it completely or overcorrect. rarely anything in between",
+      "the divergence between US, European, and Asian monetary policy creates massive opportunities in FX and fixed income",
+      "when everyone's looking at the same chart, the edge is in the data they're not looking at"
+    ],
+    "startup": [
+      "the best time to build is when everyone else is scared to deploy capital. less competition, better talent available",
+      "distribution > product. I've seen mediocre products with great distribution crush great products with none",
+      "the hardest part of being a founder isn't the work. it's making decisions with incomplete information, repeatedly",
+      "every startup that succeeded did at least one thing that everyone said wouldn't work",
+      "fundraising is not a milestone. revenue is. don't confuse investor validation with market validation"
+    ],
+    "general": [
+      "this is a genuinely underappreciated insight. more people should see this",
+      "the nuance here is what makes it valuable. most takes on this topic are surface-level",
+      "been thinking about this differently lately but your framing is better than mine",
+      "adding this to my mental model. the second-order implications are interesting",
+      "the simplest explanation is usually right. and this is pretty simple. bookmarked",
+      "the people who'll dismiss this are the same people who'll be surprised when it plays out exactly like this",
+      "this is the kind of take that ages well. saving this for a future 'told you so'",
+      "most of twitter argues about what happened. the value is in understanding why. this does that",
+      "worth reading twice. the insight isn't in the headline, it's in the reasoning",
+      "the signal-to-noise ratio on this topic is terrible. this is signal"
+    ]
+  },
+  "sentiment_rules": {
+    "hodl": ["hodl", "holding", "diamond hand", "never sell", "paper hand", "conviction", "i am hodling"],
+    "bearish": ["crash", "dump", "bear", "blood", "red", "rekt", "pain", "down bad", "sell off", "capitulat", "fear", "panic"],
+    "bullish": ["bull", "pump", "moon", "ath", "green", "rally", "run", "gains", "breakout", "accumulate", "undervalued"],
+    "dev": ["code", "coding", "developer", "engineering", "github", "deploy", "debug", "refactor", "API", "framework", "typescript", "python", "rust", "terminal", "git ", "PR review", "CI/CD"],
+    "ai": ["prompt", "chatgpt", "claude", "gemini", "LLM", "GPT", "artificial intelligence", "machine learning", "AI tool", "copilot", "automation"],
+    "finance": ["stock", "S&P", "nasdaq", "fed ", "FOMC", "GDP", "inflation", "recession", "oil price", "treasury", "yield", "rate cut", "macro"],
+    "startup": ["startup", "founder", "fundrais", "seed round", "series A", "YC ", "VC ", "venture", "bootstrap"]
+  }
+}

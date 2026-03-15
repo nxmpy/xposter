@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment (contains credentials)
+.env
+
+# Sensitive data
+data/cookies.json
+data/state.json
+data/activity.log
+data/scraped-tweets.json
+
+# User content (posts, media)
+data/posts/
+data/media/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
