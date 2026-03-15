@@ -73,24 +73,7 @@ Communication between CLI and agent happens via `data/state.json` — the CLI wr
 
 ## CLI Preview
 
-```
-  ╔══════════════════════════════════════════╗
-  ║         X POSTER AGENT — CONTROL         ║
-  ╚══════════════════════════════════════════╝
-
-  Agent:    RUNNING
-  Uptime:   Started 2h ago
-
-  Posts:     ACTIVE  |  Sent: 12  |  Failed: 0
-  Replies:   ACTIVE  |  Sent: 8
-
-  Last post:    23m ago
-  Last reply:   4m ago
-  Next post:    37min
-  Next reply:   11min
-
-  x-poster> _
-```
+![X Poster CLI](docs/CLI.png)
 
 ## File Structure
 
